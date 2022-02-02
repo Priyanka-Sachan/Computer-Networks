@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"/home/sachan/Documents/VI Semester/CS358 Computer Network/Lab/Lab 1/main.cpp","tests":[{"id":1642872450619,"input":"1000 5 -1 20\n5 10\n10 20\n12 30\n15 50","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sachan/Documents/VI Semester/CS358 Computer Network/Lab/Lab 1/main.cpp","group":"local","local":true}
